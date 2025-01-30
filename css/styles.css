@@ -1,0 +1,14 @@
+body {
+  background-color: antiquewhite;
+  border-radius: 30px;
+}
+.contenedor {
+  width: 500px;
+  height: 500px;
+  background-color: blue;
+}
+#midiv {
+  width: 50%;
+  height: 50%;
+  background-color: red;
+}
